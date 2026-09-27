@@ -84,11 +84,30 @@ Mis temas de trabajo y conversación pública incluyen:
 
 Quiero construir autoridad a partir de proyectos reales y una conversación rigurosa sobre el futuro urbano de Medellín. **La ciudad y las personas son protagonistas; mis proyectos son casos con los que poner a prueba las ideas.**
 
+## Redes sociales
+
+### Perfiles personales
+
+- **Instagram:** [@alejandrovelezrpo](https://www.instagram.com/alejandrovelezrpo/)
+- **TikTok:** [@alejandrovelezrestrepo](https://www.tiktok.com/@alejandrovelezrestrepo)
+- **Threads:** [@alejandrovelezrestrepo](https://www.threads.net/@alejandrovelezrestrepo)
+- **X:** [@velezrestrepoa1](https://x.com/velezrestrepoa1)
+- **YouTube:** [@alejandrovelezrestrepo1980](https://www.youtube.com/@alejandrovelezrestrepo1980)
+- **LinkedIn:** [buscar Alejandro Vélez Restrepo](https://www.linkedin.com/search/results/people/?keywords=Alejandro%20V%C3%A9lez%20Restrepo) *(URL directa del perfil pendiente de confirmar)*
+
+### Proyectos y empresas
+
+- **AV Group Projects — Instagram:** [@avgroup.projects](https://www.instagram.com/avgroup.projects/)
+- **HIVE — Instagram:** [@hivemde](https://www.instagram.com/hivemde/)
+- **Forever Young — Instagram:** [@foreveryoung.mde](https://www.instagram.com/foreveryoung.mde/)
+- **Harmonique Living — Instagram:** [@harmonique.living](https://www.instagram.com/harmonique.living/)
+- **Devú Living — Instagram:** [@devuliving](https://www.instagram.com/devuliving/)
+- **AV Group Rentals — Instagram:** [@avgroup.rentals](https://www.instagram.com/avgroup.rentals/)
+- **AV Group Projects — YouTube:** [@avgrouprojects](https://www.youtube.com/@avgrouprojects)
+
 ## Conversemos
 
-- **Sitio:** [AV Group Projects](https://avgrouprojects.com/)
-- **Instagram personal:** [@alejandrovelezrpo](https://www.instagram.com/alejandrovelezrpo/)
-- **LinkedIn:** [Alejandro Vélez Restrepo](https://www.linkedin.com/search/results/people/?keywords=Alejandro%20V%C3%A9lez%20Restrepo)
+- **Sitio web:** [AV Group Projects](https://avgrouprojects.com/)
 - **GitHub:** [@velezrestrepoalejandro-eng](https://github.com/velezrestrepoalejandro-eng)
 
 *Medellín, Colombia · Ecosistemas Urbanos Vivos*
