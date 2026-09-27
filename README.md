@@ -93,7 +93,7 @@ Quiero construir autoridad a partir de proyectos reales y una conversación rigu
 - **Threads:** [@alejandrovelezrestrepo](https://www.threads.net/@alejandrovelezrestrepo)
 - **X:** [@velezrestrepoa1](https://x.com/velezrestrepoa1)
 - **YouTube:** [@alejandrovelezrestrepo1980](https://www.youtube.com/@alejandrovelezrestrepo1980)
-- **LinkedIn:** [buscar Alejandro Vélez Restrepo](https://www.linkedin.com/search/results/people/?keywords=Alejandro%20V%C3%A9lez%20Restrepo) *(URL directa del perfil pendiente de confirmar)*
+- **LinkedIn:** [Alejandro Vélez Restrepo](https://www.linkedin.com/in/alejandro-v%C3%A9lez-restrepo-042901350/)
 
 ### Proyectos y empresas
 
