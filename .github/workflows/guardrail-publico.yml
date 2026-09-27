@@ -1,0 +1,23 @@
+name: guardrail-publico
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  no-ficha:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Vetos de perfil
+        run: |
+          set -euo pipefail
+          FAIL=0
+          if grep -RInE 'USD[[:space:]]*[0-9]|COP[[:space:]]*[0-9]|1[,.]15[[:space:]]*%|10[.]000[[:space:]]*/[[:space:]]*m|TIR[[:space:]]*[0-9]|cap rate|helipuerto|luxury tower' --include='*.md' . ; then
+            echo '::error::El perfil publico no puede llevar ficha, precio, TIR ni helipuerto.'
+            FAIL=1
+          fi
+          if [ "$FAIL" -ne 0 ]; then exit 1; fi
+          echo 'Perfil limpio.'
